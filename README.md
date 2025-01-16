@@ -2,10 +2,10 @@
 Welcome to my personal project, About-Me! 🌟 This repository is a simple website that introduces who I am, my passions, and my journey.
 
 # Who Am I?
-Hi! My name is Isfandiyor, and I am a student passionate about technology, learning, and creating meaningful projects. I am currently studying [Your Field of Study] at [Your University/Institution].
+Hi! My name is Isfandiyor, and I am a student passionate about technology, learning, and creating meaningful projects. I am currently studying Computer Science  at Inha University in Tashkent.
 
 # What I Love
-Programming: I enjoy solving problems and building projects with [languages you know, e.g., Python, C++, HTML/CSS, JavaScript].
+Programming: I enjoy solving problems and building projects with  Python, C++, HTML/CSS, JavaScript.
 Hobbies: Apart from coding, I love playing chess 🧩, football ⚽, and watching inspiring shows like "Friends."
 Travel: Exploring new places and learning about different cultures excites me. One of my favorite places is Riyazan Square in Samarkand, where history and beauty blend perfectly.
 # My Goals
