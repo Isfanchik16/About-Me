@@ -15,7 +15,7 @@ To master Flask, Django, and other backend frameworks.
 To improve my English skills and achieve a Band 8+ in IELTS.
 
 # Tech Stack
-Languages: C++, Python, HTML, CSS, JavaScript
+Languages: C++, Python, HTML, CSS, JavaScript.
 Tools: GitHub, VS Code
 Frameworks: Django (learning), Flask (learning), Spring (planned)
 What This Project Includes
