@@ -17,7 +17,7 @@ To improve my English skills and achieve a Band 8+ in IELTS.
 # Tech Stack
 Languages: C++, Python, HTML, CSS, JavaScript.
 Tools: GitHub, VS Code.
-Frameworks: Django (learning), Flask (learning), Spring (planned)
+Frameworks: Django (learning), Flask (learning), Spring (planned).
 What This Project Includes
 This repository contains:
 
