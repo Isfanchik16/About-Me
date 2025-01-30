@@ -7,7 +7,7 @@ Hi! My name is Isfandiyor, and I am a student passionate about technology, learn
 # What I Love
 Programming: I enjoy solving problems and building projects with  Python, C++, HTML/CSS, JavaScript.
 Hobbies: Apart from coding, I love playing chess 🧩, football ⚽, and watching inspiring shows like "Friends."
-Travel: Exploring new places and learning about different cultures excites me. One of my favorite places is Riyazan Square in Samarkand, where history and beauty blend perfectly.
+Travel: Exploring new places and learning about different cultures excites me. One of my favorite places is Registan Square in Samarkand, where history and beauty blend perfectly.
 
 # My Goals
 To become a senior backend developer and work at Google.
